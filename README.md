@@ -7,7 +7,7 @@ This software is a free modification (patch) for the game NARUTO: Ultimate Ninja
 **How to install**
 
 1. Go to the game's installation directory and open the config.ini. Change **aspectx** and **aspecty** to **0** and make sure the resolution is set.
-2. Copy all files from .zip to the game's installation directory.
+2. Choose your resoltuion on [release](https://github.com/mvico28/NARUTO-Ultimate-Ninja-STORM-Wide-Ultrawide-Patch/releases/tag/patch) page and extract the .zip file to the game's installation directory.
 
 **How to uninstall**
 
